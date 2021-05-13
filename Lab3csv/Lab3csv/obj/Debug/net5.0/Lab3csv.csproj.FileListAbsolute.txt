@@ -1,0 +1,15 @@
+D:\с#\Lab3csv\Lab3csv\bin\Debug\net5.0\Lab3csv.exe
+D:\с#\Lab3csv\Lab3csv\bin\Debug\net5.0\Lab3csv.deps.json
+D:\с#\Lab3csv\Lab3csv\bin\Debug\net5.0\Lab3csv.runtimeconfig.json
+D:\с#\Lab3csv\Lab3csv\bin\Debug\net5.0\Lab3csv.runtimeconfig.dev.json
+D:\с#\Lab3csv\Lab3csv\bin\Debug\net5.0\Lab3csv.dll
+D:\с#\Lab3csv\Lab3csv\bin\Debug\net5.0\ref\Lab3csv.dll
+D:\с#\Lab3csv\Lab3csv\bin\Debug\net5.0\Lab3csv.pdb
+D:\с#\Lab3csv\Lab3csv\obj\Debug\net5.0\Lab3csv.GeneratedMSBuildEditorConfig.editorconfig
+D:\с#\Lab3csv\Lab3csv\obj\Debug\net5.0\Lab3csv.AssemblyInfoInputs.cache
+D:\с#\Lab3csv\Lab3csv\obj\Debug\net5.0\Lab3csv.AssemblyInfo.cs
+D:\с#\Lab3csv\Lab3csv\obj\Debug\net5.0\Lab3csv.csproj.CoreCompileInputs.cache
+D:\с#\Lab3csv\Lab3csv\obj\Debug\net5.0\Lab3csv.dll
+D:\с#\Lab3csv\Lab3csv\obj\Debug\net5.0\ref\Lab3csv.dll
+D:\с#\Lab3csv\Lab3csv\obj\Debug\net5.0\Lab3csv.pdb
+D:\с#\Lab3csv\Lab3csv\obj\Debug\net5.0\Lab3csv.genruntimeconfig.cache
